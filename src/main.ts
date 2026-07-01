@@ -6,3 +6,9 @@ function getComputerChoice(): Choice {
 }
 
 console.log(getComputerChoice());
+
+function getHumanChoice(): string | null {
+  return prompt('Enter choice.');
+}
+
+console.log(getHumanChoice());
