@@ -1,5 +1,11 @@
 # Rock Paper Scissors
 
+The game Rock Paper Scissors played entirely in the console.
+
+## Demo
+
+- <https://dsmchen.github.io/rock-paper-scissors-3/>
+
 ## Tech Stack
 
 - [TypeScript](https://www.typescriptlang.org/)
